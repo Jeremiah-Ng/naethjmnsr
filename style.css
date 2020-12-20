@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+#yeet{
+    margin-top: 10px;
+}
+#urmom{
+    width: 100%;
+}
+#yeeet{
+    position:fixed;
+    width: 100%
+}
+html{
+    scroll-behavior: smooth;
+}
+#ded{
+    height: 300px;
+}
+#wow{
+    text-align: center;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: yellow;
+}
+#movie1{
+    width: 1000px;
+}
+#avengers{
+    width: 1000px;
+    margin-left: 345px;
+}
+#camp{
+    height: 500px;
+}
